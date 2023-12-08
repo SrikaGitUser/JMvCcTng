@@ -10,6 +10,8 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class TCSDef {
+
+	// This is a second StepDefinition file of this project
 	WebDriver driver;
 	SampleActions sa = new SampleActions();
 	TCSActions ta = new TCSActions();

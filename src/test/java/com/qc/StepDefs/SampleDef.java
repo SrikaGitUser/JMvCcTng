@@ -8,6 +8,7 @@ import io.cucumber.java.en.When;
 
 public class SampleDef {
 
+	// This is a first StepDefinition file of this project
 	SampleActions sa = new SampleActions();
 
 	@Given("I want to write a step with precondition")
